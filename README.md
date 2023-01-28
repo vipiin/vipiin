@@ -1,5 +1,3 @@
-![Repository Banner](banner.png)
-
 # Hi! 👋 I'm [Vipin Goriparthi]💻
 
 ### Let's Connect 🔗
