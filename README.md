@@ -1,5 +1,10 @@
 # Hi! 👋 I'm [Vipin Goriparthi]💻
 
+## My GitHub Stats 💻
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vipiin&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=vipiin&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ### Let's Connect 🔗
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/vipin-goriparthi/)
