@@ -1,23 +1,36 @@
-# Hi! 👋 I'm Vipin Goriparthi 💻
+<h1 align="center">Hi! 👋 I'm Vipin Goriparthi 💻</h1>
 
-## 📊 My GitHub Stats
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vipiin&layout=compact&theme=dracula&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vipiin&show_icons=true&theme=dracula&hide_border=true&count_private=true)
+| Top Languages | GitHub Stats |
+|:-------------:|:------------:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vipiin&layout=compact&theme=dark&hide_border=true) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vipiin&show_icons=true&theme=dark&hide_border=true&count_private=true) |
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=vipiin&theme=dracula&no-frame=true&row=2&column=4)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=vipiin&theme=onedark&no-frame=true&row=2&column=4)
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vipin-goriparthi/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VipinWipen)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vipinwipen/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/vipin/) <!-- Add if you have -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/vipin-goriparthi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/VipinWipen">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.instagram.com/vipinwipen/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=vipiin&theme=dracula&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=vipiin&theme=dark&hide_border=true)
 
 ## 📈 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vipiin&theme=dracula&hide_border=true)
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vipiin&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+⭐ **From [vipiin](https://github.com/vipiin)**
