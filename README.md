@@ -82,11 +82,7 @@ Building scalable solutions, automating security workflows, and architecting clo
 ---
 
 ## 📊 GitHub Stats
-## 📊 Top Languages
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vipiin&theme=tokyonight)
-
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vipiin&theme=tokyonight)
 ![GitHub followers](https://img.shields.io/github/followers/vipiin?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/vipiin?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/vipiin/vipiin?style=social)
@@ -94,15 +90,15 @@ Building scalable solutions, automating security workflows, and architecting clo
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipiin&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-### 📈 Contribution Activity
-
-🔹 **Public Repositories:** 15+  
-🔹 **Followers:** [X]  
-🔹 **Following:** [Y]  
-🔹 **Joined GitHub:** [Your join date]
 
 ---
+## 📊 Top Languages
 
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vipiin&theme=tokyonight)
+
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vipiin&theme=tokyonight)
+
+___
 ## 🏆 Achievements
 
 - ⚡ **85% reduction** in manual triage time through serverless security automation
