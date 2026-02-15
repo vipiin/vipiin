@@ -1,71 +1,132 @@
-# Hi! 👋 I'm Vipin Goriparthi 💻
+# Hi there! 👋 I'm Vipin Goriparthi
 
-### About Me
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I'm currently working on exciting web development projects
-- 🌱 I'm currently learning **Web Development Technologies** - Frontend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="20" height="20" /> & Backend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20" />
-- 💼 I work at **[Your Company]**
-- 📊 I love Stats and making cool Dashboards
-- ⚡ Fun fact: I enjoy **[add your fun fact here]**
+### 🚀 Software Engineer | Java & Spring Boot | Cloud Enthusiast
 
-<p> 
-📫  Born in **[Your City, Country]** <img src="https://image.flaticon.com/icons/svg/197/197575.svg" width="13"/>
+📍 Bengaluru, India | 📞 +91-8688546099 | 📧 vipin.wipen@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/vipin-goriparthi) | [GitHub](https://github.com/vipiin) | [Portfolio](https://vipin.dev)
+
+---
+
+## 💼 Currently Working At
+
+**Software Engineer @ Continental Automotive (now Aumovio)**  
+*July 2023 - Present*
+
+Building scalable solutions, automating security workflows, and architecting cloud-native applications.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Frameworks**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=flat-square&logo=gitlab&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
+
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+---
+
+## 🔥 Featured Projects
+
+<details>
+<summary><b>📚 Book Social Network</b> - Full-stack application with JWT auth</summary>
 <br>
-📌  Living in **[Your Current City, Country]** <img src="https://image.flaticon.com/icons/svg/197/197593.svg" width="13"/>
+🛠️ Java 17 · Spring Boot · Angular 20 · PostgreSQL · Cloudinary · Docker
+
+- JWT authentication with email verification
+- 15+ RESTful APIs with role-based access
+- Cloudinary integration for book covers
+- Docker containerization & Koyeb deployment
+</details>
+
+<details>
+<summary><b>⚡ Distributed Notification Service</b> - Real-time WebSocket system</summary>
+<br>
+🛠️ Java 17 · Spring Boot · WebSocket · Redis · PostgreSQL
+
+- Horizontal scaling with Redis Pub/Sub
+- 99.9% connection reliability across multi-cloud
+- Fault-tolerant WebSocket with auto-reconnection
+</details>
+
+<details>
+<summary><b>👥 Employee Management System</b> - CRUD application</summary>
+<br>
+🛠️ Java 17 · Spring Boot · Angular 20 · PostgreSQL
+
+- Full-stack CRUD with reactive forms
+- JPA/Hibernate database mappings
+- Deployed on Render + GitHub Pages
+</details>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vipiin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipiin&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-<hr>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipiin&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+</p>
 
-## 🚀 Featured Projects
+---
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vipiin&repo=your-repo-1)](https://github.com/vipiin/your-repo-1)
+## 🏆 Achievements
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vipiin&repo=your-repo-2)](https://github.com/vipiin/your-repo-2)
+- ⚡ **85% reduction** in manual triage time through serverless security automation
+- 🔥 **<5 minute** incident response for 1000+ daily security events
+- 🚀 **60% faster** deployments with GitLab CI/CD pipelines
+- ⭐ **4-star HackerRank** (Java, Python, SQL) - Top 10%
 
-<hr>
+---
 
-## Let's Connect 🔗
+## 📚 Education
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vipin-goriparthi/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VipinWipen)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vipinwipen/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vipiin)
+**B.Tech Information Technology**  
+Lovely Professional University · 2023 · CGPA: 8.22  
+*Coursework: DSA, DBMS, OS, Cloud Computing, Computer Networks*
 
-<hr>
+---
 
-## ⚡ Tech Stack
+## 📫 Let's Connect!
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <a href="https://www.linkedin.com/in/vipin-goriparthi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/VipinWipen"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:vipin.wipen@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/vipiin"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.instagram.com/vipinwipen/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
 
-<hr>
+---
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vipiin&label=Profile%20Views&color=0e75b6&style=flat" alt="vipiin" />
+</p>
 
-[![Vipin's GitHub stats](https://github-readme-stats.vercel.app/api?username=vipiin&show_icons=true&count_private=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vipiin&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=vipiin)
-
-<hr>
-
-<!--START_SECTION:waka-->
-**I'm an Early Bird 🐤** 
-
-```text
-🌞 Morning                126 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-🌆 Daytime                245 commits         ████████░░░░░░░░░░░░░░░░░   32.55 % 
-🌃 Evening                289 commits         ██████████░░░░░░░░░░░░░░░   38.38 % 
-🌙 Night                  93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i> — John Johnson
+</p>
