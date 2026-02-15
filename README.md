@@ -87,7 +87,10 @@ Building scalable solutions, automating security workflows, and architecting clo
 ![GitHub stars](https://img.shields.io/github/stars/vipiin?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/vipiin/vipiin?style=social)
 ![GitHub repo size](https://img.shields.io/github/repo-size/vipiin/vipiin)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vipiin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipiin&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 ### 📈 Contribution Activity
 
 🔹 **Public Repositories:** 15+  
