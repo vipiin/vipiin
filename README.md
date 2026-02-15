@@ -104,7 +104,7 @@ ___
 - ⚡ **85% reduction** in manual triage time through serverless security automation
 - 🔥 **<5 minute** incident response for 1000+ daily security events
 - 🚀 **60% faster** deployments with GitLab CI/CD pipelines
-- ⭐ **4-star HackerRank** (Java, Python, SQL) - Top 10%
+- ⭐ **4-star HackerRank** (Java, Python, SQL)
 
 ---
 
