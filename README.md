@@ -83,11 +83,17 @@ Building scalable solutions, automating security workflows, and architecting clo
 
 ## 📊 GitHub Stats
 
-![Vipin's GitHub stats](https://github-readme-stats.vercel.app/api?username=vipiin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub followers](https://img.shields.io/github/followers/vipiin?style=social)
+![GitHub stars](https://img.shields.io/github/stars/vipiin?style=social)
+![GitHub forks](https://img.shields.io/github/forks/vipiin/vipiin?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/vipiin/vipiin)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vipiin&theme=tokyonight&hide_border=true)
+### 📈 Contribution Activity
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vipiin&layout=compact&theme=tokyonight&hide_border=true)
+🔹 **Public Repositories:** 15+  
+🔹 **Followers:** [X]  
+🔹 **Following:** [Y]  
+🔹 **Joined GitHub:** [Your join date]
 
 ---
 
