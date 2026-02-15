@@ -81,16 +81,13 @@ Building scalable solutions, automating security workflows, and architecting clo
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vipiin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipiin&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+![Vipin's GitHub stats](https://github-readme-stats.vercel.app/api?username=vipiin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipiin&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vipiin&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vipiin&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
