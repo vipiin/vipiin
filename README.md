@@ -5,7 +5,7 @@
 ### 🚀 Software Engineer | Java & Spring Boot | Cloud Enthusiast
 
 📍 Bengaluru, India | 📞 +91-8688546099 | 📧 vipin.wipen@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/vipin-goriparthi) | [GitHub](https://github.com/vipiin) | [Portfolio](vipiin.github.io/portfolio/)
+🔗 [LinkedIn](https://www.linkedin.com/in/vipin-goriparthi) | [GitHub](https://github.com/vipiin) | [Portfolio](https://vipiin.github.io/portfolio)
 
 ---
 
